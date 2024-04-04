@@ -2,7 +2,7 @@
 
 Welcome! This respostitory contains my solution for [Rocketseat´s](https://github.com/Rocketseat/frontend-challenge) open source [Frontend Challenge](https://github.com/alefealves/desafio_frontend_react).
 
-![Prototype](./.github/prototype.png)
+![Prototype](./prototype.png)
 
 # 🧠 About
 
